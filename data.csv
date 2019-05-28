@@ -1,0 +1,23 @@
+Categoria,Grupo,Manifestacao,Eleicao
+Gênero,Homens,65,53
+Gênero,Mulheres,35,47
+Faixa etária,Até 24,9,12
+Faixa etária,De 25-34,13,20
+Faixa etária,De 35-44,23,21
+Faixa etária,Mais de 45,55,45
+Escolaridade,a.Fundamental,2,23
+Escolaridade,b.Médio,30,46
+Escolaridade,c.Superior,68,30
+Renda familiar,Até 2 sm.,6,28
+Renda familiar,De 2 a 5 sm.,40,45
+Renda familiar,De 5 a 10 sm.,28,17
+Renda familiar,Mais de 10 sm.,26,9
+Ocupação,Assalariado c/ registro,27,36
+Ocupação,Aposentado,18,14
+Ocupação,Empesário,15,6
+Ocupação,Estudante,4,1
+Ocupação,Desempregado,7,6
+Ocupação,Autônomo,20,10
+Ocupação,Funcionário Público,6,4
+Ocupação,Freelance/bico,2,8
+Ocupação,Assalariado s/ registro,2,5
