@@ -1,6 +1,6 @@
-Comparing Bolsonaro voters and supporters in protests. 
+<strong>Comparing Bolsonaro voters and supporters in protests.</strong>
 
-* Original post [here](https://twitter.com/gzanlorenssi/status/1133370834930872321
+* Original post [here](https://twitter.com/gzanlorenssi/status/1133370834930872321)
 
 <br>
 
